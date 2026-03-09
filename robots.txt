@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://compost.best/sitemap.xml
